@@ -1,1 +1,1 @@
-<a href="./uploads">다운로드</a>
+<a href="../uploads">다운로드</a>
